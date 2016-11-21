@@ -1,0 +1,109 @@
+----- 03.11.2016 15:38:56: Job 'LinvoDic': ANALYSIS started by Analyze And Sync All on computer 'TEMP01-PC' (GoodSync 9.1.6.6 on Windows 7) -----
+LinvoDic: V:\Users\KarnaushenkoSV\AppData\Local\ABBYY\Lingvo\16.0\Dic <-> =AcronisCD:\_LinvoDic (G:\_LinvoDic), SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Exclude Hidden, Exclude System, Exclude /_gsdata2_|licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File V:\Users\KarnaushenkoSV\AppData\Local\ABBYY\Lingvo\16.0\Dic\_gsdata_\_file_state._gs
+Left: State file does not exist: V:\Users\KarnaushenkoSV\AppData\Local\ABBYY\Lingvo\16.0\Dic\_gsdata_\_file_state._gs
+Left: No State File found, New State will be built
+Left: Files: 89 (excluded 0). Folders: 2 (excluded 2). V: \\172.31.106.48\c NTFS, Free: 155 ГБ, Total: 237 ГБ
+Right: Reading State File G:\_LinvoDic\_gsdata_\_file_state_v4._gs
+Locking folder G:\_LinvoDic for write
+cannot parse state file: ee node: 
+Right: No State File found, New State will be built
+Right: Files: 89 (excluded 0). Folders: 2 (excluded 2). G: NTFS, Free: 5,74 ГБ, Total: 14,5 ГБ
+/DictConf.ini: Conflict: New files that differ
+/PlayedAudio.conf: Conflict: New files that differ
+/PlayedVideo.conf: Conflict: New files that differ
+/TutorConf.xml: Conflict: New files that differ
+/TutorDict/ClothesDeRu.xml: Conflict: New files that differ
+/TutorDict/ClothesEnRu.xml: Conflict: New files that differ
+/TutorDict/ClothesEsRu.xml: Conflict: New files that differ
+/TutorDict/ClothesFrRu.xml: Conflict: New files that differ
+/TutorDict/ClothesItRu.xml: Conflict: New files that differ
+/TutorDict/ClothesPtRu.xml: Conflict: New files that differ
+/TutorDict/ClothesRuDe.xml: Conflict: New files that differ
+/TutorDict/ClothesRuEn.xml: Conflict: New files that differ
+/TutorDict/ClothesRuEs.xml: Conflict: New files that differ
+/TutorDict/ClothesRuFr.xml: Conflict: New files that differ
+/TutorDict/ClothesRuIt.xml: Conflict: New files that differ
+/TutorDict/ClothesRuPt.xml: Conflict: New files that differ
+/TutorDict/Common2016EnRu.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu01.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu02.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu03.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu04.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu05.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu06.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu07.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu08.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu09.xml: Conflict: New files that differ
+/TutorDict/CommonVocabularyEnRu10.xml: Conflict: New files that differ
+/TutorDict/HotelDeRu.xml: Conflict: New files that differ
+/TutorDict/HotelEnRu.xml: Conflict: New files that differ
+/TutorDict/HotelEsRu.xml: Conflict: New files that differ
+/TutorDict/HotelFrRu.xml: Conflict: New files that differ
+/TutorDict/HotelItRu.xml: Conflict: New files that differ
+/TutorDict/HotelPtRu.xml: Conflict: New files that differ
+/TutorDict/HotelRuDe.xml: Conflict: New files that differ
+/TutorDict/HotelRuEn.xml: Conflict: New files that differ
+/TutorDict/HotelRuEs.xml: Conflict: New files that differ
+/TutorDict/HotelRuFr.xml: Conflict: New files that differ
+/TutorDict/HotelRuIt.xml: Conflict: New files that differ
+/TutorDict/HotelRuPt.xml: Conflict: New files that differ
+/TutorDict/JobDeRu.xml: Conflict: New files that differ
+/TutorDict/JobEnRu.xml: Conflict: New files that differ
+/TutorDict/JobEsRu.xml: Conflict: New files that differ
+/TutorDict/JobFrRu.xml: Conflict: New files that differ
+/TutorDict/JobItRu.xml: Conflict: New files that differ
+/TutorDict/JobPtRu.xml: Conflict: New files that differ
+/TutorDict/JobRuDe.xml: Conflict: New files that differ
+/TutorDict/JobRuEn.xml: Conflict: New files that differ
+/TutorDict/JobRuEs.xml: Conflict: New files that differ
+/TutorDict/JobRuFr.xml: Conflict: New files that differ
+/TutorDict/JobRuIt.xml: Conflict: New files that differ
+/TutorDict/JobRuPt.xml: Conflict: New files that differ
+/TutorDict/RestaurantDeRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantEnRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantEsRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantFrRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantItRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantPtRu.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuDe.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuEn.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuEs.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuFr.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuIt.xml: Conflict: New files that differ
+/TutorDict/RestaurantRuPt.xml: Conflict: New files that differ
+/TutorDict/ShoppingEnRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingDeRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingEsRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingFrRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingItRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingPtRu.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuDe.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuEn.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuEs.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuFr.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuIt.xml: Conflict: New files that differ
+/TutorDict/SightseeingRuPt.xml: Conflict: New files that differ
+/TutorDict/TravelEnRu.xml: Conflict: New files that differ
+/TutorDict/WeatherDeRu.xml: Conflict: New files that differ
+/TutorDict/WeatherEnRu.xml: Conflict: New files that differ
+/TutorDict/WeatherEsRu.xml: Conflict: New files that differ
+/TutorDict/WeatherFrRu.xml: Conflict: New files that differ
+/TutorDict/WeatherItRu.xml: Conflict: New files that differ
+/TutorDict/WeatherPtRu.xml: Conflict: New files that differ
+/TutorDict/WeatherRuDe.xml: Conflict: New files that differ
+/TutorDict/WeatherRuEn.xml: Conflict: New files that differ
+/TutorDict/WeatherRuEs.xml: Conflict: New files that differ
+/TutorDict/WeatherRuFr.xml: Conflict: New files that differ
+/TutorDict/WeatherRuIt.xml: Conflict: New files that differ
+/TutorDict/WeatherRuPt.xml: Conflict: New files that differ
+/Wordlists/WordlistConf.xml: Conflict: New files that differ
+Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+Changes: 89, Conflicts: 89, CopyTime: 0, CopyState: 2, Errors: 0
+----- 03.11.2016 15:38:56: Analysis Completed. Time 00:00:00, Speed: Many files/s -----
+===== 03.11.2016 15:38:56: Job 'LinvoDic': SYNC started by Analyze And Sync All on computer 'TEMP01-PC' =====
+LinvoDic: V:\Users\KarnaushenkoSV\AppData\Local\ABBYY\Lingvo\16.0\Dic <-> =AcronisCD:\_LinvoDic (G:\_LinvoDic), SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Unlocking folder (set insync file) G:\_LinvoDic\_gsdata_\_insync_v4.gsl
+94% (89 / 94) files have changed, more than a threshold of 10%. So the job will not synchronize automatically.
+
